@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Enhancement" max_length="40" name="x_orr_enhancement_enhancement" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="40" name="u_choice_2" type="string">
+            <choice>
+                <element label="Platform" sequence="0" value="Platform"/>
+                <element label="App" sequence="1" value="App"/>
+                <element label="Infrastructure" sequence="2" value="Infrastructure"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="u_string_1" type="string"/>
+    </element>
+</database>
