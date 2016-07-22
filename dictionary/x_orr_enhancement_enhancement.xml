@@ -4,6 +4,13 @@
         <element choice="1" label="Priority" max_length="40" name="priority" type="choice">
             <choice/>
         </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element label="Not started" sequence="0" value="Not started"/>
+                <element label="WIP" sequence="1" value="WIP"/>
+                <element label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="40" name="u_choice_2" type="string">
             <choice>
                 <element label="Platform" sequence="0" value="Platform"/>

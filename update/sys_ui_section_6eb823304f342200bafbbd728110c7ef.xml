@@ -5,13 +5,13 @@
             <element>u_string_1</element>
             <position>0</position>
             <sys_created_by>wendy.smith</sys_created_by>
-            <sys_created_on>2016-07-21 17:32:53</sys_created_on>
-            <sys_id>883967304f342200bafbbd728110c7db</sys_id>
+            <sys_created_on>2016-07-22 21:06:43</sys_created_on>
+            <sys_id>cab3e9dd4f382200bafbbd728110c74d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_orr_enhancement_enhancement" sys_domain="global" view="Default view">6eb823304f342200bafbbd728110c7ef</sys_ui_section>
             <sys_updated_by>wendy.smith</sys_updated_by>
-            <sys_updated_on>2016-07-21 17:32:53</sys_updated_on>
+            <sys_updated_on>2016-07-22 21:06:43</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>u_choice_2</element>
             <position>1</position>
             <sys_created_by>wendy.smith</sys_created_by>
-            <sys_created_on>2016-07-21 17:32:53</sys_created_on>
-            <sys_id>0c3967304f342200bafbbd728110c7db</sys_id>
+            <sys_created_on>2016-07-22 21:06:43</sys_created_on>
+            <sys_id>4eb3e9dd4f382200bafbbd728110c74d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_orr_enhancement_enhancement" sys_domain="global" view="Default view">6eb823304f342200bafbbd728110c7ef</sys_ui_section>
             <sys_updated_by>wendy.smith</sys_updated_by>
-            <sys_updated_on>2016-07-21 17:32:53</sys_updated_on>
+            <sys_updated_on>2016-07-22 21:06:43</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,27 @@
             <element>priority</element>
             <position>2</position>
             <sys_created_by>wendy.smith</sys_created_by>
-            <sys_created_on>2016-07-21 20:27:55</sys_created_on>
-            <sys_id>fb3110494f342200bafbbd728110c74d</sys_id>
+            <sys_created_on>2016-07-22 21:06:43</sys_created_on>
+            <sys_id>ceb3e9dd4f382200bafbbd728110c74d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_orr_enhancement_enhancement" sys_domain="global" view="Default view">6eb823304f342200bafbbd728110c7ef</sys_ui_section>
             <sys_updated_by>wendy.smith</sys_updated_by>
-            <sys_updated_on>2016-07-21 20:27:55</sys_updated_on>
+            <sys_updated_on>2016-07-22 21:06:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_1</element>
+            <position>3</position>
+            <sys_created_by>wendy.smith</sys_created_by>
+            <sys_created_on>2016-07-22 21:06:43</sys_created_on>
+            <sys_id>42b3e9dd4f382200bafbbd728110c74e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_orr_enhancement_enhancement" sys_domain="global" view="Default view">6eb823304f342200bafbbd728110c7ef</sys_ui_section>
+            <sys_updated_by>wendy.smith</sys_updated_by>
+            <sys_updated_on>2016-07-22 21:06:43</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
